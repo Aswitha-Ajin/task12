@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  color: darkorange;
+  margin: 10px;
+}
+ 
+.card-body{
+  color:rgb(255, 255, 255);
+  font-size: 15px;
+  font-family: Helvetica sans-serif;
+  text-align: left;
+  border: 2px solid ;
+  background:lightcoral;
+  margin-top: 1px;
+  
+  
+  
+}  
+.card-header{
+  color:rgb(253, 249, 249);
+      text-align: left;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      
+      background: lightcoral;
+     
+      font-family: 'Roboto', sans-serif;
+}
+
